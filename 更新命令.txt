@@ -1,0 +1,7 @@
+cd _posts  进入本地更新文件夹
+ls	显示本地更新文件夹下文件
+git add 2023-10-08-post.md  上传修改过文件到缓存区
+git commit -m "备注信息" 将缓存区的文件保存到本地仓库
+git log 查看commit记录
+git push --set-upstream origin master 将本地仓库文件上传至远程仓库github
+
