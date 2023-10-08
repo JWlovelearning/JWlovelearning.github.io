@@ -1,0 +1,22 @@
+name: Learning Blog
+author: JW Huang
+url: https://JWlovelearning.github.io
+baseurl: https://JWlovelearning.github.io
+resume_site: https://JWlovelearning.github.io
+description: 这是一个安全自学者的学习博客，记录学习以积少成多！
+github_username: JWlearning
+github: https://github.com/JWlovelearing
+plugins: [jekyll-paginate]
+permalink: /:year-:month-:day-:title
+paginate: 12
+paginate_path: "/page/:num/"
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+highlighter: rouge
+markdown: kramdown
+comments :
+  gitalk :
+    clientID : xxx
+    clientSecret : xxx
+    repo : jwlovelearning.github.io/
+    owner : JW Huang
+    admin : JW Huang
