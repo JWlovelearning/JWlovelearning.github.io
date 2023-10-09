@@ -5,7 +5,7 @@ baseurl:
 resume_site: https://JWlovelearning.github.io
 description: 这是一个安全自学者的学习博客，记录学习以积少成多！
 github_username: JWlearning
-github: https://github.com/JWlovelearing
+github: https://github.com/JWlovelearning
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -17,6 +17,6 @@ comments :
   gitalk :
     clientID : eff85f44afe72b6fb41f
     clientSecret : e66f659187cc4fa038294912b92ccce2f15246aa
-    repo : JWlovelearning.github.io
-    owner : JW Huang
-    admin : JW Huang
+    repo : gitalk-comments
+    owner : JWlovelearning
+    admin : JWlovelearning
