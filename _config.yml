@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : xxx
-    clientSecret : xxx
+    clientID : eff85f44afe72b6fb41f
+    clientSecret : 9a78aafe3702048611f5aa7b1a35754271fcc35f
     repo : JWlovelearning.github.io/
     owner : JW Huang
     admin : JW Huang
