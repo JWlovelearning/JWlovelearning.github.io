@@ -31,7 +31,9 @@ title: About Me
 
 更新内容：安全渗透基础及进阶
 
-[OSCP学习命令收集](https://docs.qq.com/doc/DRnhZYlVzQllGaWxV)
+## OSCP相关
+
+[OSCP学习命令收集](https://docs.qq.com/s/3qmVv6jV5DbDARBeZHcqeq)
 
 
 
