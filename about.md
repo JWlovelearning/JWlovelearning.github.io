@@ -17,7 +17,7 @@ title: About Me
 
 # 近期已完成认证
 
-![Offsec 证书](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145926203)
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145926203" class="left-img">
 
 ## 联系我
 
