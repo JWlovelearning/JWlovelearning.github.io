@@ -17,7 +17,12 @@ title: About Me
 
 # 已完成认证
 
-![badge1](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145926203) ![badge2](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/134662475)
+<span style="display:inline-block;">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145926203" alt="Badge1"/>
+</span>
+<span style="display:inline-block;">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/134662475" alt="Badge2"/>
+</span>
 
 ## 联系我
 
