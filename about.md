@@ -15,6 +15,10 @@ title: About Me
 
 不求将来自己有多厉害，但最起码我努力过、学习过，不是么？与君共勉！
 
+# 近期已完成认证
+
+![Offsec 证书](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145926203)
+
 ## 联系我
 
 有idea,欢迎联系
